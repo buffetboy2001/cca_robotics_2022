@@ -1,0 +1,26 @@
+---
+title: Welcome to Robotics @ CCA!
+format: revealjs
+---
+# What Is Robotics?
+
+
+# Lego Mindstorms
+
+
+# Academic Calendar Review
+
+
+:::: {.columns}
+
+::: {.column width="40%"}
+* Sept-Jan: Build robots & play
+* Feb-April: Build custom robots
+* May: Demonstration Days!
+:::
+
+::: {.column width="60%"}
+![](images/academic_calendar.png)
+:::
+
+::::
