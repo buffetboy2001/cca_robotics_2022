@@ -1,0 +1,49 @@
+---
+title: Programming on Robot Inventor
+format:
+  html: 
+    theme: sketchy
+---
+
+# The Blank Canvas
+
+* Connected sensors show their state in the top right
+    * Motors
+    * Color Sensor
+* Help menu
+
+# Elements of A Program
+
+* Always start with "When Program Starts" block
+* Connected blocks are part of the program
+* Disconnected blocks are not
+* Slide to the Tray to get rid of blocks
+* Show how to disconnect sections and reorganize
+
+# First Program Tutorial
+
+* Start a new program
+* Set Center button light to any color
+* Turn on a smily face
+
+# Block Categories
+
+* Show all block categories
+* Walk through the categories
+
+# Motion (Vroom, Vroom)
+
+* Motor Blocks
+
+* Understanding the Movement Blocks
+    * Start by setting the two motors to be synchronized
+    * Default is Motor `A+B`, but can be changed
+    * Default speed is 50%
+
+# Advanced
+
+* Use flow control
+* Oval blocks
+* Sharp blocks
+* Use multiple "when program starts" blocks
+    * Write a program that turns on animation & also drives at the same time.
