@@ -24,11 +24,12 @@ Once the group familiarity has increased sufficiently, I want to use the second 
 
 * Three robots can be built before Christmas break;
 * January they will continue to build using lego instructions;
-* January, I will present the challenge;
+* Start of February, I will present the challenge;
 * Feb-March will be design time for the students;
-* April will be robot testing;
-* May 4 & 11 will be the final challenge day.
+* March 9th -- test day!
+* April will be robot tweaking;
+* April 27th -- final demonstration day!
 
 ## Collaborative Challenge
 
-Read [all about it](./challenge.md). Details coming soon.
+Read all about it in [this presentation](./presentations/challenge_time.html).
