@@ -1,0 +1,117 @@
+---
+# title: Challenge Time!
+format:
+  revealjs:
+    theme: blood
+    transition: fade
+---
+
+
+# Challenge Time!
+
+![](/images/sysiphus.png){.absolute top=100 right=-200 height="800"}
+
+---
+
+::: {.r-fit-text}
+Make A Vertical Cup Stack
+:::
+
+![](./images/stacked_plastic_cups.png){.absolute top=150 left=350 height="75%"}
+
+---
+
+## Team Activity: Human Robot
+
+* Try to stack some cups -- blindfolded
+* Put the blind-fold on
+* Take turns giving verbal commands
+
+> 3 minutes to stack 10 cups
+
+## Team 1
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+* Tim
+* Gavin
+* Danny
+* Troy
+* Caleb
+
+:::
+
+::: {.column width="75%"}
+
+![](/images/purple_cow.png){width=35%}
+![](/images/pink_elephant.png){width=40%}
+
+:::
+
+::::
+
+
+## Team 2
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+* Max
+* Justin
+* Ben
+* Daniel
+* Liam
+
+:::
+
+::: {.column width="75%"}
+
+![](/images/yellow_fox_2.png){width=50%}
+![](/images/red_panda.png){width=45%}
+
+:::
+
+::::
+
+## The Rules
+
+* Sit together each week
+* Build with 2 robotics kits
+* You can build one big robot or two robots
+* The robots can be the same or completely different
+* You can re-use a robot from [OneKitProjects.com](https://www.onekitprojects.com/51515)
+
+
+---
+
+::: {.r-fit-text}
+This is _not_ a competition
+:::
+
+---
+
+## The Calendar
+
+![](./images/academic_calendar_spring.png)
+
+:::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-tip}
+## Testing Day 1
+March 9th
+:::
+:::
+
+::: {.column width="50%"}
+::: {.callout-tip}
+## Testing Day 2
+April 27th
+:::
+:::
+
+::::
+
