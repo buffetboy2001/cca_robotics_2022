@@ -9,7 +9,7 @@ format:
 
 # Challenge Time!
 
-![](/images/sysiphus.png){.absolute top=100 right=-200 height="800"}
+![](./images/sysiphus.png){.absolute top=100 right=-200 height="800"}
 
 ---
 
@@ -45,8 +45,8 @@ Make A Vertical Cup Stack
 
 ::: {.column width="75%"}
 
-![](/images/purple_cow.png){width=35%}
-![](/images/pink_elephant.png){width=40%}
+![](./images/purple_cow.png){width=35%}
+![](./images/pink_elephant.png){width=40%}
 
 :::
 
@@ -69,8 +69,8 @@ Make A Vertical Cup Stack
 
 ::: {.column width="75%"}
 
-![](/images/yellow_fox_2.png){width=50%}
-![](/images/red_panda.png){width=45%}
+![](./images/yellow_fox_2.png){width=50%}
+![](./images/red_panda.png){width=45%}
 
 :::
 
